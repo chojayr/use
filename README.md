@@ -40,32 +40,35 @@ It is depend on the requirements or what's available ( "System Admin should be i
 * Zabbix
 * Incinga
 * Nagios    
-
 #### Graph/Metrics 
 * Ganglia
 * Graphite
 * Zabbix Graph
 * Tasseo (Graphite Frontend)
-
 #### Server Orchestration Framework
 * Mcollective
 * Capistrano
-
 #### Configuration Management 
 * Puppet
 * Chef (still very noob) 
-
 #### Logs Management
 * Logstash
 * Graylog2
 * Splunk
- 
 #### Scripting Language 
 * Bash
 * Ruby
 * Python (noob)
-
 #### Others
 * Vagrant
 * Sinatra 
 * Pfsense 
+
+
+## DREAM SETUP?
+
+I really want to have my own Rack(3 or 4 server would be enough) for my playground/test environment especially to study and play with different server platforms, hypervisor and new cool stuff, for Client, planning to buy Mac Book, to be honest, I used to support a lot of Mac users before but I never owned one ( oohhh! poor guy :P ) 
+
+ 
+
+
