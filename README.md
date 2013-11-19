@@ -40,25 +40,31 @@ It is depend on the requirements or what's available ( "System Admin should be i
 * Zabbix
 * Incinga
 * Nagios    
+
 #### Graph/Metrics 
 * Ganglia
 * Graphite
 * Zabbix Graph
 * Tasseo (Graphite Frontend)
+
 #### Server Orchestration Framework
 * Mcollective
 * Capistrano
+
 #### Configuration Management 
 * Puppet
 * Chef (still very noob) 
+
 #### Logs Management
 * Logstash
 * Graylog2
 * Splunk
+
 #### Scripting Language 
 * Bash
 * Ruby
 * Python (noob)
+
 #### Others
 * Vagrant
 * Sinatra 
